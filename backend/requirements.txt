@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+python-multipart
+google-genai>=0.3.0
+cloudinary
